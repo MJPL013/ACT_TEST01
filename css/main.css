@@ -1,0 +1,58 @@
+
+#main {
+    background-color: rgb(127, 212, 255);
+    width: 95%;
+    height: 600px;
+    padding: 15px;            
+    border: 1px solid #c1bfbf;   
+    margin: 20px;             
+    border-radius: 10px;     
+}
+#left {
+    width: 30%;
+    height: 600px;
+    background-color: #FAC67A; 
+    float: left;
+}
+
+#right {
+    width: 70%;
+    background-color: #f4f2f2; 
+    height: 600px;
+    float: left;
+}
+.headlines {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#logo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-top: 10%;
+    border: 1px solid #ab7f92; 
+}
+p{
+    margin-left: 5%;
+}
+.data_table
+{
+    margin-left: 15%;
+
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+}
+th, td {
+    padding: 12px;
+    border: 1px solid #3a3a3a;
+}
+th {
+    background-color: #adadad;
+}
